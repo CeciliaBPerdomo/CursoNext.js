@@ -14,3 +14,14 @@ Para comenzar:
 5. pnpm i use-debounce --> Espera para que tipee
 6. pnpm lint --> it can be helpful to catch accessibility issues 
 7. pnpm i next-auth@beta --> Next Auth
+
+Siguientes pasos:
+1. https://nextjs.org/docs
+2. https://vercel.com/templates/next.js
+    - https://vercel.com/templates/next.js/admin-dashboard-tailwind-postgres-react-nextjs
+    - https://vercel.com/templates/next.js/nextjs-commerce
+    - https://vercel.com/templates/next.js/blog-starter-kit
+    - https://vercel.com/templates/next.js/nextjs-ai-chatbot
+    - https://vercel.com/templates/next.js/image-gallery-starter
+3. https://github.com/vercel/next.js
+4. https://www.youtube.com/@VercelHQ/videos
